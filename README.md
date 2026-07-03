@@ -56,8 +56,4 @@ pip install -r requirements.txt
 - How SHISHA seed partitioning and adaptive width selection reduce SLO misses.
 - Trade-offs between fairness, utilization, and tail latency.
 
-## Next upgrades (optional)
-
-- Plug in your original execution-time CSV tables from the dump.
-- Add confidence intervals by running multiple seeds.
-- Export a polished HTML report for recruiters.
+> Disclaimer: This demo was created for portfolio purposes with assistance from GitHub Copilot.
