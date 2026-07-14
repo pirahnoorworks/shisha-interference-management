@@ -1,4 +1,4 @@
-# SHISHA Interference Management Lab
+# SHISHA Interference Management on Inference serving systems Lab
 
 A clean, interview-ready project that demonstrates **interference-aware scheduling** for ML inference workloads.
 
